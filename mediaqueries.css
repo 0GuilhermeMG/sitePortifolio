@@ -45,7 +45,6 @@
     .about-containers {
       margin-top: 0;
     }
-  }
   
   @media screen and (max-width: 600px) {
     #contact,
@@ -99,5 +98,13 @@
     }
     .text-container {
       text-align: justify;
+    }
+
+    .minhaFoto {
+      width: 45%;
+    }
+
+    .about-pic {
+      width: 60%;
     }
   }
